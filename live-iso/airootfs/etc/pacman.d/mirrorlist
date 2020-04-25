@@ -263,10 +263,6 @@ Server = http://mirror.rackspace.com/archlinux/$repo/os/$arch
 #Server = http://mirror.system.is/arch/$repo/os/$arch
 #Server = https://mirror.system.is/arch/$repo/os/$arch
 
-## India
-#Server = http://mirror.cse.iitk.ac.in/archlinux/$repo/os/$arch
-#Server = https://ind.mirror.pkgbuild.com/$repo/os/$arch
-
 ## Indonesia
 #Server = http://mirror.labkom.id/archlinux/$repo/os/$arch
 #Server = http://mirror.poliwangi.ac.id/archlinux/$repo/os/$arch
